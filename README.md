@@ -1,0 +1,4 @@
+# Lidar_camera_calibration
+camera_lidar_calibration_learning
+calibration
+只需要改变OpenCV/lidar.cpp中的a[9]即可
